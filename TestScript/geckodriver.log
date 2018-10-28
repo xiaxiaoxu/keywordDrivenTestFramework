@@ -1,0 +1,8 @@
+1530958539942	geckodriver	INFO	Listening on 127.0.0.1:55875
+1530958543093	mozprofile::profile	INFO	Using profile path C:\Users\Lenovo\AppData\Local\Temp\rust_mozprofile.gW3SmIlVmnUR
+1530958543104	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe
+1530958543128	geckodriver::marionette	INFO	Connecting to Marionette on localhost:55884
+1530958548508	Marionette	INFO	Listening on port 55884
+1530958553079	Marionette	INFO	startBrowser e68fd98a-64fc-4555-885d-da6d2751cd89
+[Child 8912] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2052
+[Child 8912] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2052

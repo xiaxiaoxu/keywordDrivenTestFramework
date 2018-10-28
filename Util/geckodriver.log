@@ -1,0 +1,17 @@
+1497089721274	geckodriver	INFO	Listening on 127.0.0.1:11850
+1497089723264	mozprofile::profile	INFO	Using profile path C:\Users\WUXIAO~1\AppData\Local\Temp\rust_mozprofile.W4yfithWerPh
+1497089723270	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe
+1497089723284	geckodriver::marionette	INFO	Connecting to Marionette on localhost:11856
+1497089726425	Marionette	INFO	Listening on port 11856
+[GPU 13040] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+[GPU 13040] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13440] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
